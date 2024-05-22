@@ -8,5 +8,5 @@ b = int(input('変数 b を入力>>'))
 print(f'入れ替え前 変数 a は\"{a}\" 変数 b は\"{b}\"')
 c = a
 a = b
-b = c
+b = c 
 print(f'入れ替え後 変数 a は\"{a}\" 変数 b は\"{b}\"')
